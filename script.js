@@ -49,6 +49,7 @@ function createUserCard(user) {
   </div>
     `
     main.innerHTML = cardHTML
+    //main.innerHTML = cradHTML
  
 }
  
